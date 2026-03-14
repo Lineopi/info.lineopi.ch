@@ -1,0 +1,37 @@
+# lineopi
+> Société de conseil suisse spécialisée dans la transformation des entreprises par l'intelligence artificielle. lineopi accompagne les organisations de Suisse Romande dans l'adoption durable et l'intégration efficace des outils d'IA, en plaçant l'humain au centre de la démarche.
+lineopi Sàrl est basée à Lausanne (CH-1003), Suisse. Créée en 2017, la structure a été transformée en Sàrl en 2024. La société intervient dans toute la Suisse Romande (Vaud, Genève, Valais, Neuchâtel). Son approche combine proximité humaine et expertise technologique, avec la conviction que les dimensions humaines et technologiques sont indissociables dans tout projet de digitalisation réussi.
+
+## Services IA
+- [Services IA (vue d'ensemble)](https://www.lineopi.ch/prestations) : Présentation de l'offre de conseil et d'accompagnement IA pour entreprises.
+- [Diagnostic IA](https://www.lineopi.ch/prestations/diagnostic) : Audit terrain pour évaluer la maturité IA de l'organisation et définir une stratégie réaliste adaptée aux ressources disponibles.
+- [Accompagnement IA](https://www.lineopi.ch/prestations/accompagnement) : Suivi personnalisé dans la mise en œuvre de la stratégie IA au sein de l'entreprise.
+- [Conférences IA](https://www.lineopi.ch/prestations/conference) : Interventions lors de congrès, journées clients et événements professionnels sur les enjeux et usages de l'IA.
+
+## Formations IA
+- [Formations IA (vue d'ensemble)](https://www.lineopi.ch/formations) : Catalogue des formations proposées aux équipes et organisations.
+- [IA Sensibilisation](https://www.lineopi.ch/formations/sensibilisation) : Initiation aux concepts de base de l'IA générative, accessible à tous niveaux, des débutants aux dirigeants.
+- [IA Formation entreprises](https://www.lineopi.ch/formations/entreprises) : Formation approfondie pour développer une utilisation efficace et responsable de l'IA au sein des équipes.
+- [IA Ateliers métiers](https://www.lineopi.ch/formations/atelier) : Ateliers pratiques ciblés par domaine métier (ex. : optimisation de site web, vente, maintenance) pour une application concrète et immédiate.
+
+## Outils IA
+- [Outils IA](https://www.lineopi.ch/outils) : Sélection d'outils d'intelligence artificielle recommandés pour booster la productivité des équipes et des activités professionnelles (ChatGPT, Gemini, Copilot, etc.).
+
+## Contenus & Actualités
+- [Blog & Actualités](https://www.lineopi.ch/blog) : Articles, retours d'expérience et actualités sur l'IA appliquée aux entreprises.
+
+## À propos
+- [À propos de lineopi](https://www.lineopi.ch/a-propos) : Philosophie, équipe, partenaires et engagements de la société.
+
+lineopi adopte une approche en 3 étapes pour l'intégration de l'IA : (1) utilisation individuelle — formation aux outils d'IA générative ; (2) optimisation des processus — identification et implémentation des activités à fort potentiel IA ; (3) intégration produit — une fois les deux premières étapes arrivées à maturité.
+**Fondateur :** Romain Bouvy — Ingénieur NTIC, +15 ans d'expérience en pilotage de projets technologiques, certifié PMP®, PSPO™I et DISC.  
+**Conseillère stratégique IA :** Ana Šušnjara — PhD Mathématiques EPFL, machine learning & data science.  
+**Conseiller stratégique amélioration continue :** Daniel Degroisse — Master Chimie, direction d'entreprise & industrialisation.
+
+## Contact
+- [Page de contact](https://www.lineopi.ch/contact) : Formulaire de contact pour toute demande de prestation personnalisée.
+- [LinkedIn lineopi](https://www.linkedin.com/company/lineopi)
+- [Newsletter](https://docs.google.com/forms/d/e/1FAIpQLScNWQfQ9KocH3xbdFXE911F_RGhLHUBV6ZmLrXGrFUhKY2opw/viewform)
+
+## Mentions légales
+- [Mentions légales](https://www.lineopi.ch/mentions-legales)
