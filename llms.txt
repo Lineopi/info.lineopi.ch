@@ -33,5 +33,9 @@ lineopi adopte une approche en 3 étapes pour l'intégration de l'IA : (1) utili
 - [LinkedIn lineopi](https://www.linkedin.com/company/lineopi)
 - [Newsletter](https://docs.google.com/forms/d/e/1FAIpQLScNWQfQ9KocH3xbdFXE911F_RGhLHUBV6ZmLrXGrFUhKY2opw/viewform)
 
-## Mentions légales
-- [Mentions légales](https://www.lineopi.ch/mentions-legales)
+## Optional
+
+- [Blog & Actualités](https://www.lineopi.ch/blog): Articles de fond, retours d'expérience et veille sur l'IA appliquée aux entreprises de Suisse Romande.
+- [LinkedIn lineopi](https://www.linkedin.com/company/lineopi): Publications régulières et actualités de la société.
+- [Newsletter](https://docs.google.com/forms/d/e/1FAIpQLScNWQfQ9KocH3xbdFXE911F_RGhLHUBV6ZmLrXGrFUhKY2opw/viewform): Inscription pour recevoir les actualités IA de lineopi.
+- [Mentions légales](https://www.lineopi.ch/mentions-legales): Informations légales sur lineopi Sàrl (siège, numéro d'inscription, conditions d'utilisation).
