@@ -1,0 +1,309 @@
+# lineopi
+> Société de conseil suisse spécialisée dans la transformation des entreprises par l'intelligence artificielle. lineopi accompagne les organisations de Suisse Romande dans l'adoption durable et l'intégration efficace des outils d'IA, en plaçant l'humain au centre de la démarche.
+
+lineopi Sàrl est basée à Lausanne (CH-1003), Suisse. Créée en 2017, la structure a été transformée en Sàrl en 2024. La société intervient dans toute la Suisse Romande (Vaud, Genève, Valais, Neuchâtel). Son approche combine proximité humaine et expertise technologique, avec la conviction que les dimensions humaines et technologiques sont indissociables dans tout projet de digitalisation réussi.
+
+lineopi adopte une approche en 3 étapes pour l'intégration de l'IA : (1) utilisation individuelle — formation aux outils d'IA générative ; (2) optimisation des processus — identification et implémentation des activités à fort potentiel IA ; (3) intégration produit — une fois les deux premières étapes arrivées à maturité.
+
+**Fondateur :** Romain Bouvy — Ingénieur NTIC, +15 ans d'expérience en pilotage de projets technologiques, certifié PMP®, PSPO™I et DISC.  
+**Conseillère stratégique IA :** Ana Šušnjara — PhD Mathématiques EPFL, machine learning & data science.  
+**Conseiller stratégique amélioration continue :** Daniel Degroisse — Master Chimie, direction d'entreprise & industrialisation.
+
+---
+
+# Services IA
+
+Source : https://info.lineopi.ch/prestations.md
+
+> Conseil et accompagnement pour l'intégration de l'IA en entreprise en Suisse Romande.
+
+lineopi propose trois types d'interventions complémentaires pour aider les organisations à mettre en place une stratégie IA réaliste et adaptée à leurs ressources.
+
+## Diagnostics IA
+
+Audit terrain pour évaluer la maturité IA de l'organisation sur trois axes :
+
+- **Compétences IA** : cartographie des niveaux de compétence pour orienter les plans de formation.
+- **Cas d'usage IA** : identification et priorisation des tâches et processus à fort potentiel IA.
+- **Modèle d'affaires IA** : analyse des axes stratégiques où l'IA a le plus d'impact sur la chaîne de valeur.
+
+Caractéristiques : rapide (livrables en moins de 15 jours), modulaire (thèmes à la carte), transversal (par métier et/ou fonction).
+
+Livrables : rapport personnalisé par répondant + présentation direction avec cartographie, analyses chiffrées et recommandations.
+
+→ https://www.lineopi.ch/prestations/diagnostic
+
+## Accompagnements IA
+
+Programme sur mesure (1 à 6 mois, 1 à 2 jours/semaine) pour passer de la curiosité à l'action.
+
+Objectifs :
+- Rendre les équipes autonomes dans l'utilisation efficace de la genIA.
+- Développer les compétences IA internes (stratégiques, transverses, business et projet).
+- Créer de la valeur en maîtrisant les risques et l'alignement stratégique.
+
+Public cible : organisations de 50 collaborateurs ou plus.
+
+→ https://www.lineopi.ch/prestations/accompagnement
+
+## Conférences & Interventions IA
+
+Interventions lors de symposiums, séminaires, congrès, journées clients et événements de réseautage.
+
+Formats : conférence (45 min), table ronde, atelier/masterclass (demi-journée).
+
+Thématiques couvertes : sensibilisation aux impacts de l'IA, retours d'expérience terrain, vision et stratégie IA, IA par secteur (immobilier, banque, RH, maintenance industrielle, formation…).
+
+Régions : Suisse Romande principalement (Lausanne, Genève, Fribourg, Neuchâtel, Valais). Interventions possibles sur l'ensemble du territoire suisse.
+
+→ https://www.lineopi.ch/prestations/conference
+
+---
+
+# Diagnostic IA
+
+Source : https://info.lineopi.ch/prestations-diagnostic.md
+
+> Audit terrain pour disposer de toute l'information nécessaire et définir une stratégie IA réaliste et adaptée aux ressources de l'organisation.
+
+## Trois axes de diagnostic
+
+### Compétences IA
+Évaluation du niveau de compétence IA par équipe et par fonction, pour mettre en place des plans de formation adaptés et investir là où le besoin est avéré.
+
+### Cas d'usage IA
+Identification, chiffrage et priorisation des tâches et processus pouvant bénéficier de l'IA.
+
+### Modèle d'affaires IA
+Analyse stratégique de la chaîne de valeur pour identifier où l'IA a le plus d'impact sur le modèle d'affaires.
+
+## Caractéristiques
+
+- **Rapide** : livrables disponibles en moins de 15 jours.
+- **Modulaire** : thèmes à la carte, individuels ou combinés.
+- **Transversal** : consultation par métier et/ou par fonction.
+
+## Livrables
+
+**Pour chaque répondant :**
+- Évaluation personnalisée du niveau de compétence IA.
+
+**Pour la direction :**
+- Cartographie complète de la situation actuelle.
+- Analyses chiffrées et priorisées des axes de développement.
+- Recommandations sur-mesure et pratiques favorisant le passage à l'action.
+
+## Déroulement
+
+La prestation combine enquêtes algorithmiques et proximité humaine. Un point en amont est réalisé pour cadrer les objectifs et adapter le dispositif.
+
+Accès à la plateforme de diagnostic en ligne : https://io.lineopi.ch/diagnostic/
+
+---
+
+# Accompagnement IA
+
+Source : https://info.lineopi.ch/prestations-accompagnement.md
+
+> Programme personnalisé de mise en place et suivi de la stratégie IA pour atteindre les objectifs stratégiques à tous les niveaux de l'organisation.
+
+## Pourquoi se faire accompagner ?
+
+- 53,5 % des emplois dans le tertiaire vont être transformés par l'IA (Harmonic Security).
+- 95 % des projets IA en entreprise ne sont pas rentables (MIT).
+- 80 % des collaborateurs ne savent pas quoi faire avec l'IA.
+
+## Objectifs
+
+- Embarquer et rendre autonomes les équipes dans l'utilisation efficace et fiable des outils de genIA.
+- Développer en interne les compétences IA nécessaires (stratégiques, transverses, business et projet).
+- Créer de la valeur en maîtrisant les risques et l'alignement avec les objectifs stratégiques.
+
+## Déroulement
+
+**Avant la prestation :**
+- Définition des objectifs et besoins.
+- Proposition chiffrée de l'effort et du budget.
+
+**Pendant l'accompagnement (selon les besoins) :**
+- Diagnostic et définition de la stratégie IA.
+- Sensibilisation, formation, ateliers métiers.
+- Identification des cas d'usage et suivi des équipes.
+- Gestion de projet et déploiement d'un pilote IA.
+- Mise à disposition d'outils.
+
+**Livrables (selon les objectifs fixés) :**
+- Gain de productivité à tous les niveaux.
+- Cadre d'utilisation IA clair et compris par tous.
+- Équipes autonomes avec l'IA.
+- Besoins métiers identifiés et priorisés.
+- Stratégie IA adaptée.
+
+## Public cible & investissement
+
+- **À qui s'adresse cette prestation ?** Toute organisation de 50 collaborateurs ou plus.
+- **Investissement :** formules de 1 à 6 mois, 1 à 2 jours par semaine (tarif dégressif).
+
+## Intervenant
+
+**Romain Bouvy** — Fondateur de lineopi, ingénieur NTIC, 2 masters (Informatique et Réseau), +15 ans d'expérience en pilotage de projets technologiques transverses. Certifié PMP®, PSPO™I et DISC.
+
+---
+
+# Conférences & Interventions IA
+
+Source : https://info.lineopi.ch/prestations-conference.md
+
+> Interventions pour sensibiliser aux mutations technologiques, partager des retours d'expérience et développer une vision stratégique de l'IA, adaptées à tout type de public professionnel.
+
+## Formats proposés
+
+- **Conférence** : 45 minutes à 1h30, format inspirant.
+- **Table ronde** : échanges multi-intervenants.
+- **Atelier / Masterclass** : demi-journée, format approfondi pour comités de direction.
+
+Contextes : symposiums, séminaires, forums, congrès, journées clients, journées du personnel, événements de réseautage.
+
+## Exemples de thématiques
+
+- Sensibilisation et compréhension des impacts actuels et à venir de l'IA.
+- Adoption et partage d'expérience : pièges et points clés d'intégration de l'IA.
+- Vision stratégique de l'IA pour les dirigeants.
+- IA & maintenance industrielle, IA & immobilier, IA & RH, IA & formation, IA & Web.
+- Retour d'expérience IA en entreprise : entre promesses et réalité terrain.
+
+Le contenu est personnalisé selon le secteur d'activité et le niveau d'acculturation des participants.
+
+## Zones d'intervention
+
+Principalement en Suisse Romande : Lausanne, Genève, Fribourg, Neuchâtel, Valais (Sion, Martigny). Interventions possibles sur l'ensemble du territoire suisse.
+
+## Références (sélection récente)
+
+- 04/2026 — Banques Raiffeisen Monthey : IA & Web, +150 participants.
+- 03/2026 — SOA People & I-Care : IA & maintenance industrielle, +50 responsables de maintenance.
+- 03/2026 — Swiss Leaders : retour d'expérience IA en entreprise, 15 directeurs.
+- 01/2026 — Digicomp SA : impacts de l'IA sur le rôle de formateur, 25 formateurs.
+- 09/2025 — Banques Raiffeisen Valais (65e Foire du Valais) : +600 participants.
+- 12/2024 — Innopark SA : comment intégrer durablement l'IA en entreprise, +100 participants.
+- 11/2024 — JBC Solutions SA : l'IA au service des PME, +80 dirigeants.
+- 04/2024 — SMP (Congrès annuel gestion de projet, HEC Lausanne) : atelier IA & données, +50 participants.
+
+Prochaines interventions publiques : https://www.lineopi.ch/blog/event-webinaire
+
+## Intervenant
+
+**Romain Bouvy** — Ingénieur NTIC, entrepreneur, fondateur de lineopi. 2 masters universitaires (Informatique et Réseau). Certifié PMP®, PSPO™I et DISC. Approche pédagogique combinant expertise technique et vision stratégique.
+
+---
+
+# Formations IA
+
+Source : https://info.lineopi.ch/formations.md
+
+> Catalogue des formations intra-entreprise pour développer une utilisation efficace, responsable et durable de l'IA au sein des équipes.
+
+## IA Sensibilisation
+
+Session interactive (45 min à 2h) pour démystifier l'IA, prévenir les risques et poser des bases communes de compréhension dans l'organisation.
+
+- **Public** : tout public, du débutant à l'utilisateur actif.
+- **Prérequis** : salle équipée (beamer/TV) et accès internet.
+- **Tarif** : de 900 CHF à 3 000 CHF selon l'option choisie.
+- **Livrables** : charte interne d'utilisation de l'IA + fiche de connaissances IA.
+
+Objectifs :
+- Comprendre les concepts clés de l'IA et prévenir les risques.
+- Harmoniser le niveau, les pratiques et usages internes de l'IA.
+- Favoriser une appropriation efficace et sécurisée de l'IA.
+
+Déroulement : définition des objectifs + élaboration d'une charte d'utilisation IA en amont, puis session interactive avec présentation des bases théoriques, démonstration d'outils et échanges questions/réponses.
+
+Contexte : 37 % des utilisateurs professionnels de la GenAI n'informent pas leur hiérarchie (Inria) ; 1 prompt sur 12 contient des données sensibles (Harmonic Security).
+
+## IA Formation entreprises
+
+Formation intensive (4h ou 8h) pour développer une utilisation efficace et responsable de l'IA dans les activités professionnelles.
+
+- **Public** : 5 à 12 personnes, tout niveau.
+- **Tarif** : de 1 900 CHF à 3 500 CHF selon les options.
+- **Livrables** : guide pratique, accès à l'outil "Easy Prompting" lineopi, certificats individuels de formation.
+
+Programme :
+- Matin : fondamentaux de l'IA, enjeux éthiques et risques, cas pratiques d'utilisation.
+- Après-midi : méthodologie de détection de cas d'usage IA, mise en pratique sur cas réels de l'entreprise, cycle de vie des projets IA.
+
+Contexte : 40 % de perte de productivité par manque de formation adéquate (EY) ; seulement 5 % des employés exploitent pleinement l'IA (EY).
+
+## IA Ateliers métiers
+
+Sessions thématiques (2h à 8h) pour approfondir l'usage de l'IA dans un domaine métier précis.
+
+- **Public** : 5 à 12 personnes, connaissance du métier requise.
+- **Tarif** : de 380 CHF à 3 000 CHF selon les options.
+- **Livrables** : guide pratique, templates de prompts, synthèse des cas d'usage, accès aux outils "Easy-Prompt" et/ou "Easy-Task" lineopi.
+
+Thématiques disponibles :
+- IA & Optimisation site internet
+- IA & Innovation
+- IA & Développement logiciel
+- IA & Management
+- IA & Gestion de projet
+- IA & Processus
+- IA & Marketing
+- IA & RH
+
+Formats : présentiel, distanciel ou hybride. Deux thématiques peuvent être combinées.
+
+---
+
+# À propos de lineopi
+
+Source : https://info.lineopi.ch/a-propos.md
+
+> lineopi Sàrl accompagne les organisations de Suisse Romande dans l'adoption durable et l'intégration efficace de l'IA, en plaçant l'humain au centre de la démarche.
+
+## Philosophie
+
+lineopi considère que les dimensions humaines et technologiques sont totalement indissociables dans tout projet de digitalisation réussi. L'approche suit trois étapes progressives :
+
+1. **Utilisation individuelle** : formation aux concepts de base et aux outils de l'IA générative.
+2. **Optimisation des processus** : identification, évaluation, priorisation et implémentation des activités à fort potentiel IA.
+3. **Intégration produit** : uniquement lorsque les deux premières étapes sont arrivées à maturité.
+
+## L'équipe
+
+**Romain Bouvy — Fondateur & Consultant**
+Ingénieur NTIC, 2 masters universitaires (Informatique et Réseaux), +15 ans d'expérience en pilotage de projets technologiques transverses. Certifié PMP®, PSPO™I et DISC. Domaines de prédilection : Technologies & Services. Spécialiste de la transformation digitale et de l'IA.
+
+**Bobot L'Algo — Automatiseur en chef**
+Algorithme dédié à l'analyse organisationnelle et à l'automatisation des diagnostics, avec +7 ans d'expérience dans l'analyse d'entreprise.
+
+**Ana Šušnjara — Conseillère stratégique IA**
+PhD Mathématiques EPFL, spécialiste en machine learning, data science et finance-technologie.
+
+**Daniel Degroisse — Conseiller stratégique amélioration continue**
+Master Chimie, expertise en direction d'entreprise, industrialisation et manufacturing industrie lourde.
+
+## Informations légales
+
+- **Forme juridique** : Sàrl
+- **Siège** : Lausanne (CH-1003), Suisse
+- **Fondation** : 2017 (transformée en Sàrl en 2024)
+- **Zone d'intervention** : Vaud, Genève, Valais, Neuchâtel (et Suisse alémanique sur demande)
+
+## Partenaires
+
+- **Eric Bertin (Score Management)** : formation et stratégie de vente.
+- **Jérôme Viguet (Vijem)** : design et création de contenu.
+- **STS** : formation et distribution d'outils pédagogiques en gestion de projet (SimulTrain®).
+
+## Engagements & Associations
+
+Membre de : Réseau Entreprendre, Swiss Leaders, CCIFS.
+
+## Contact
+
+- Site : https://www.lineopi.ch/contact
+- LinkedIn : https://www.linkedin.com/company/lineopi
+- Newsletter : https://docs.google.com/forms/d/e/1FAIpQLScNWQfQ9KocH3xbdFXE911F_RGhLHUBV6ZmLrXGrFUhKY2opw/viewform
